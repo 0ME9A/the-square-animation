@@ -1,0 +1,51 @@
+{
+  "color": {
+    "text": "Color",
+    "type": "color",
+    "value": "#3356FB"
+  },
+  "background":{
+    "text": "Background",
+    "type": "color",
+    "value": "#000000"
+  },
+  "rainBow": {
+    "type": "checkbox",
+    "value": true,
+    "text": "Rainbow"
+  },
+  "fill": {
+    "type": "checkbox",
+    "value": false,
+    "text": "Square Fill"
+  },
+  "quantity": {
+    "max": 500,
+    "min": 1,
+    "tick": 100,
+    "text": "Quantity",
+    "type": "slider",
+    "value": 50
+  },
+  "transition": {
+    "max": 100,
+    "min": 0,
+    "tick": 10,
+    "text": "Transition",
+    "type": "slider",
+    "value": 10
+  },
+  "update": {
+    "max": 500,
+    "min": 1,
+    "tick": 10,
+    "text": "Update",
+    "type": "slider",
+    "value": 100
+  },
+  "t_random": {
+    "type": "checkbox",
+    "value": false,
+    "text": "Transition Random"
+  }
+}

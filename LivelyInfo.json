@@ -1,0 +1,14 @@
+{
+  "AppVersion": "0.1.0.0",
+  "Title": "Square",
+  "Thumbnail": "lively_p.jpg",
+  "Preview": "lively_g.gif",
+  "Desc": "Customisable canvas Square animation.",
+  "Author": "OMEGA",
+  "License": "see license.txt",
+  "Contact": "https://github.com/heyomega",
+  "Type": 1,
+  "FileName": "square.html",
+  "Arguments": null,
+  "IsAbsolutePath": false
+}
