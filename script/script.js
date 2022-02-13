@@ -8,7 +8,7 @@ var lively_background = "#3356FB";
 var lively_transition_random = false;
 var lively_transition = ".5"
 var lively_update = 100;
-var lively_quantity = 5;
+var lively_quantity = 15;
 var lively_fill = false;
 
 
